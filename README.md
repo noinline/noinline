@@ -8,10 +8,7 @@ I'm a strange *C++* programming freak, obsessed with not less stranger useless
 projects, reverse-engineering and cheating software. I work on both *Windows*
 and *Linux*, and had experience using *ImGui*, *Minhook* and *SourceSDK*.
 
-Currently, I'm into:
-- Unholy C;
-- Learning FASM, Linux Kernel and Win32 API;
-- Low-level reverse engineering.
+Currently, I'm trying to cure depression by playing some games :p
 
 Feel free to reach out if you're interested in exploiting game engines for fun
 or just texting :3
